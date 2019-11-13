@@ -1,0 +1,6 @@
+*pip install pyinstaller.
+*Change directory to where ur program is located.
+*Run ->pyinstaller --onefile -w APP.py
+*open Dist>APP
+
+To add icon -> pyinstaller --onefile --icon="image.ico" APP.py
